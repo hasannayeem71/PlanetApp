@@ -4,6 +4,7 @@ import Text from "./text/text";
 PlanetHeader
 export {
     Text,
+    
     PlanetHeader
 };
 
